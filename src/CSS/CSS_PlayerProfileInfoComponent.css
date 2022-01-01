@@ -1,0 +1,34 @@
+.player-profile-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.1)
+    
+}   
+
+.player-image-container { 
+    grid-area: 1 / 1 / 4 / 2; 
+    
+}
+
+.player-stats-container{ 
+    grid-area: 1 / 2 / 4 / 3; 
+}
+
+.armor{
+
+}
+
+.armor-hp-cells{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    
+}

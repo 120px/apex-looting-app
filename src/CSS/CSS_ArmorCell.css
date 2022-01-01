@@ -1,0 +1,23 @@
+.armor{
+	
+}
+
+.armor-cell{
+    border-bottom: 20px solid blue;
+	border-right: 0px solid transparent;
+	height: 0;
+	width: 40px;
+    
+}
+
+.armor-cell-container{
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-template-rows: 1fr;
+	grid-column-gap: 7px;
+	
+}
+
+.armor-hp-cells{
+	width: 50px;
+}

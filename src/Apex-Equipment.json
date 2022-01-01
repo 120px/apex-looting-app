@@ -1,0 +1,169 @@
+{"Armor": {
+    "0" : {
+        "name" : "Evo Shield",
+        "id" : 0,
+        "colour": "#a8a8a8",
+        "armorCells" : 2,
+        "armor-hp" : 50
+    },
+    "1": {
+        "name" : "Evo Shield",
+        "id" : 1,
+        "colour": "#083e73",
+        "armorCells" : 3,
+        "armor-hp" : 75
+    },
+    "2" : {
+        "name" : "Evo Shield",
+        "id" : 2,
+        "colour": "#3d1550",
+        "armorCells" : 4,
+        "armor-hp" : 100
+    },
+    "3" : {
+        "name" : "Evo Shield",
+        "id" : 3,
+        "colour": "#cead21",
+        "armorCells" : 4,
+        "armor-hp" : 100
+    },
+    "4" : {
+        "name" : "Evo Shield",
+        "id" : 4,
+        "colour": "red",
+        "armorCells" : 5,
+        "armor-hp" : 125
+    }
+
+}, "Helmet" : {
+    "0":{
+        "name" : "Helmet",
+        "colour" : "#a8a8a8"
+    },
+    "1":{
+        "name" : "Helmet",
+        "colour" : "#083e73"
+    },
+    "2":{
+        "name" : "Helmet",
+        "colour" : "#3d1550"
+    },
+    "3":{
+        "name" : "Helmet",
+        "colour" : "#cead21"
+    }
+
+}, "Backpack" : {
+    "0":{
+        "name" : "Backpack",
+        "colour" : "#a8a8a8"
+    },
+    "1":{
+        "name" : "Backpack",
+        "colour" : "#083e73"
+    },
+    "2":{
+        "name" : "Backpack",
+        "colour" : "#3d1550"
+    },
+    "3":{
+        "name" : "Backpack",
+        "colour" : "#cead21"
+    }
+
+}, "KnockdownShield" : {
+    "0":{
+        "name" : "Knockdown Shield",
+        "colour" : "#a8a8a8"
+    },
+    "1":{
+        "name" : "Knockdown Shield",
+        "colour" : "#083e73"
+    },
+    "2":{
+        "name" : "Knockdown Shield",
+        "colour" : "#b237c8"
+    },
+    "3":{
+        "name" : "Knockdown Shield",
+        "colour" : "#cead21"
+    }
+
+}, "Ammo" : {
+    "0":{
+        "name" : "Light Ammo",
+        "colour" : "#323636"
+    },
+    "1":{
+        "name" : "Heavy Ammo",
+        "colour" : "#323636"
+    },
+    "2":{
+        "name" : "Energy Ammo",
+        "colour" : "#323636"
+    },
+    "3":{
+        "name" : "Shotgun Ammo",
+        "colour" : "#323636"
+    }, 
+    "4":{
+        "name" : "Sniper Ammo",
+        "colour" : "#323636"
+    }, 
+    "5":{
+        "name" : "Arrows",
+        "colour" : "#323636"
+    }
+}, "Weapons" : {
+    "0":{
+        "name" : "Light Ammo",
+        "colour" : "#f49a4a"
+    }
+}
+, "Consumables" : {
+    "0":{
+        "name" : "Syringe",
+        "colour" : "#a8a8a8",
+        "quantity" : 0
+
+    }, "1":{
+        "name" : "Shield Cell",
+        "colour" : "#083e73",
+        "quantity" : 0
+
+    }, "2":{
+        "name" : "Med Kit",
+        "colour" : "red",
+        "quantity" : 0
+
+    }, "3":{
+        "name" : "Shield Battery",
+        "colour" : "#083e73",
+        "quantity" : 0
+    }, "4":{
+        "name" : "Phoenix Kit",
+        "colour" : "#3d1550",
+        "quantity" : 0
+
+    }, "5":{
+        "name" : "Frag Grenade",
+        "colour" : "#a8a8a8",
+        "quantity" : 0
+
+    }, "6":{
+        "name" : "Thermite Grenade",
+        "colour" : "#a8a8a8",
+        "quantity" : 0
+
+    }, "7":{
+        "name" : "Arc Star",
+        "colour" : "#a8a8a8",
+        "quantity" : 0
+
+    }, "8":{
+        "name" : "Ultimate Accelerant",
+        "colour" : "#083e73",
+        "quantity" : 0
+    }
+    
+}}

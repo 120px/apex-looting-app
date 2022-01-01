@@ -1,0 +1,33 @@
+.Deathbox-Container{
+    background-color: #49473d;
+    margin-left: 76px;
+    margin-top: 81px;
+
+}
+
+.DeathBox-inner-Container{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.player-name-container{
+    background: rgb(80,55,38);
+    background: linear-gradient(90deg, rgba(80,55,38,1) 50%, rgba(47,39,31,1) 100%);
+    max-height: 65px;
+}
+
+.deathbox-name{
+    margin: 0px 52px 0px 52px;
+    padding-top: 11px;
+    font-size: 20px;
+    height: 100%;
+
+}
+
+.deathbox-title{
+    margin: 0;
+    margin-bottom: 10px;
+    margin-left: 49px;
+    font-size: 22px;
+}

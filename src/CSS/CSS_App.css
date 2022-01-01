@@ -1,0 +1,37 @@
+body{
+    color: whitesmoke;
+    background-color: rgb(192, 192, 192);
+    margin: 0;
+}
+
+.Deathbox-Container{
+    width: 598px;
+    height: 918px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+
+.player-info-container{
+    margin: auto;
+    justify-content: center;
+    position: absolute;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    top: 920px;
+}
+
+.bottom-space-container{
+    position: absolute;
+    bottom: 81px;
+    background-color: rgb(19, 18, 18);
+    height: 42px;
+    width: 598px;
+    margin-left: 76px;
+}
+
+.bottom-space{
+    margin-bottom: 101px;
+}

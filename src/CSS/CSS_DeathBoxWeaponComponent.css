@@ -1,0 +1,29 @@
+.DB-Weapon-Container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.weapon-title{
+    margin: 12px 0px 9px 41px;
+
+}
+
+.DB-Weapon1{
+    background-color: turquoise;
+    /* width: 255px;
+    height: 100px; */
+    width: 254px;
+    height: 99px;
+    border: 1px solid #d9d9da;
+    margin-left: 41px;
+}
+
+.DB-Weapon2{
+    background-color: yellow;
+    /* width: 255px;
+    height: 100px; */
+    width: 254px;
+    height: 99px;
+    border: 1px solid #d9d9da;
+    margin-left: 3px;
+}
