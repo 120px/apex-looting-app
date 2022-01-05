@@ -1,22 +1,16 @@
 import React from 'react'
-import { useEffect, useRef } from 'react'
 
-const OpenLootBoxScreenComponent = () => {
-    var keyup = 0
-
-    useEffect(() => {
-
-        document.addEventListener("keydown", () => {
-
-        })
-        return () => {
-            
-        }
-    }, [])
-
+const OpenLootBoxScreenComponent = ({isOpen}) => {
+    
     return (
-        <div>
-            {/* {reference === 3 ? <h1>YES</h1> : <h1>NO</h1>} */}
+        <div className="notify-open-lootbox">
+            {isOpen === false ? 
+            <div className="inner-notify-open-lootbox">
+                <h1>Press F11 to go Fullscreen</h1>
+                <h1>Put mouse in the square and hold E to open lootbox</h1>
+
+            </div> : null}
+            
         </div>
     )
 }
