@@ -32,8 +32,8 @@ const DeathBoxComponent = ({ammo, shield, helmet, backpack, knockdownShield, doS
                 <DeathBoxConsumablesComponent consumables={consumables}>
                 </DeathBoxConsumablesComponent>
 
-                <DeathBoxAttatchmentsComponent>
-                </DeathBoxAttatchmentsComponent>
+                {/* <DeathBoxAttatchmentsComponent>
+                </DeathBoxAttatchmentsComponent> */}
 
 
             </div>
